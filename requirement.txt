@@ -1,0 +1,2 @@
+该项目使用百度飞桨框架paddlepaddle实现
+paddlepaddle版本为1.8.3
